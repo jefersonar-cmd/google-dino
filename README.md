@@ -1,2 +1,3 @@
-# google-dino
- Recriando jogo do Dino e Implementar nova roupagem.
+# Dino Chrome
+
+Repo reservado para recriação e remodelação do game do dino.
